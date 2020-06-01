@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b60d65d.chunk.css",
+    "main.js": "/static/js/main.9acb1159.chunk.js",
+    "main.js.map": "/static/js/main.9acb1159.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c40394c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c40394c.js.map",
+    "static/js/2.ea36df12.chunk.js": "/static/js/2.ea36df12.chunk.js",
+    "static/js/2.ea36df12.chunk.js.map": "/static/js/2.ea36df12.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.988b082c57b32b426110a637ec450c02.js": "/precache-manifest.988b082c57b32b426110a637ec450c02.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9b60d65d.chunk.css.map": "/static/css/main.9b60d65d.chunk.css.map",
+    "static/js/2.ea36df12.chunk.js.LICENSE.txt": "/static/js/2.ea36df12.chunk.js.LICENSE.txt",
+    "static/media/expressjs-ar21.svg": "/static/media/expressjs-ar21.0fb30b49.svg",
+    "static/media/mongodb-ar21.svg": "/static/media/mongodb-ar21.d571053a.svg",
+    "static/media/nodejs-ar21.svg": "/static/media/nodejs-ar21.613cf57c.svg",
+    "static/media/reactjs-ar21.svg": "/static/media/reactjs-ar21.ddd11c2b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c40394c.js",
+    "static/js/2.ea36df12.chunk.js",
+    "static/css/main.9b60d65d.chunk.css",
+    "static/js/main.9acb1159.chunk.js"
+  ]
+}
