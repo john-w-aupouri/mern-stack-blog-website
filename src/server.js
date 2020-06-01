@@ -6,6 +6,9 @@ import path from 'path';
 // server
 const app = express();
 
+// for heroku deployment in case port is occupied
+const PORT = process.env.PORT || 8000;
+
 // middleware
 app.use(express.static(path.join(__dirname, '/build')));
 app.use(bodyParser.json());
@@ -104,4 +107,4 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname + '/build/index.html'));
 })
 
-app.listen(8000, () => console.log('Listening on port 8000'));
+app.listen(PORT, () => console.log('Listening on port 8000'));
